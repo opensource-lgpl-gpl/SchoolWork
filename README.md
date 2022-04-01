@@ -1,21 +1,33 @@
 # Notable School Assignments
 
 ## ASU online BS in Electrical Engineering - Capstone Project
+
 Role: Project Manager, Site Developer
+
 Language: C
+
 Hardware: Arduino Uno
-https://github.com/opensource-lgpl-gpl/team17-asu
+
+[ASUCapstone](https://github.com/opensource-lgpl-gpl/team17-asu)
 
 ## Eastern University online Masters in Data Science - Capstone Project
+
 Role: Sole Contributor
+
 Language: SQL, Python
+
 Major Tools: PostGreSQL, Jupyter Notebooks
-https://github.com/opensource-lgpl-gpl/Applied-Datascience-Capstone
+
+[Capstone](https://github.com/opensource-lgpl-gpl/Applied-Datascience-Capstone)
 
 ## Eastern University online Masters in Data Science - Notable Assignments
+
 Role: Sole Contributor
+
 Language: Python, R
+
 Major Tools: Jupyter Notebooks
+
 [Mushroom KNeighborsClassifier](https://github.com/opensource-lgpl-gpl/DataScienceCoursework/blob/main/Applied%20Machine%20Learning/Module%204/Assignment%206/Assignment%206.ipynb)
 
 [Logistic Regression](https://github.com/opensource-lgpl-gpl/DataScienceCoursework/blob/main/650_Data_Analytics_in_R/Module%208%20Logistic%20Regression.Rmd)
