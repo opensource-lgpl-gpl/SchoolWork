@@ -30,7 +30,7 @@ Major Tools: Jupyter Notebooks
 
 [Mushroom KNeighborsClassifier](https://github.com/opensource-lgpl-gpl/DataScience-Coursework/blob/main/Applied%20Machine%20Learning/Module%204/Assignment%206/Assignment%206.ipynb)
 
-[Logistic Regression](https://github.com/opensource-lgpl-gpl/DataScience-Coursework/blob/main/650_Data_Analytics_in_R/Module%208%20Logistic%20Regression.Rmd)
+[Logistic Regression](https://github.com/opensource-lgpl-gpl/DataScience-Coursework/blob/main/Module%208%20Logistic%20Regression.Rmd)
 
 [Tree based Regression Methods I](https://github.com/opensource-lgpl-gpl/DataScience-Coursework/blob/main/Applied%20Machine%20Learning/Module%202/Module%202/Assignment%203/Assignment_3.ipynb)
 
